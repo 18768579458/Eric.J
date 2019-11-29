@@ -1,0 +1,1698 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5, user-scalable=0, minimal-ui">
+    <meta name="Keywords" content="{$sys['js_key2']}" />
+    <meta name="Description" content="{$sys['js_content']}" />
+    <meta name="robots" content="index,follow" />
+    <meta property="qc:admins" content="15207516656316766375636" />
+    <meta name="WT.cg_abc" content="{$sys['js_abc']}" />
+    <meta name="WT.cg_refer" content="{$sys['js_refer']}" />
+    <meta property="mf:drilldown" content="首页">
+    <meta property="mf:category" content="首页">
+    <title>佳能（中国）</title>
+    <link href="https://www.canon.com.cn/common/css/common.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://www.canon.com.cn/common/css/home/home.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://www.canon.com.cn/common/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+    <script src="https://www.canon.com.cn/common/js/jquery.imgpreload.js" type="text/javascript"></script>
+    <!--<script src="http://www.canon.com.cn/common/js/pica.js" type="text/javascript"></script>-->
+    <script src="https://www.canon.com.cn/common/js/common.js" type="text/javascript"></script>
+    <script src="https://www.canon.com.cn/common/js/home/home.js" type="text/javascript"></script>
+    <script src="https://www.canon.com.cn/common/js/news/newslist.js" type="text/javascript"></script>
+    <!-- start favicons + touch icons -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!-- end favicons + touch icons -->
+<link rel="stylesheet" type="text/css" href="/Public/Front/bootstrap/dist/style/bootstrap.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/Public/Front/style/style1.css" media="all">
+<link rel="stylesheet" href="/Public/Front/style/style2.css" />
+<link rel="stylesheet" href="/Public/Front/style/index.css" media="all"/>
+<link rel="stylesheet" href="/Public/Front/style/printstyle.css" media="print" />
+<link href="/Public/Front/style/style1600.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/style1400.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/style1200.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/style960.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/style768.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/style480.css" rel="stylesheet" type="text/css"/>
+<link href="/Public/Front/style/animate.css" rel="stylesheet" type="text/css" media="all">
+<link href="/Public/Front/style/video.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/Public/Front/style/page_haku.css" rel="stylesheet" type="text/css" media="all" />
+<!-- MF CSS -->
+<link href="//c.marsflag.com.cn/mf/mfx/1.0/css/mfx-serp.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8">
+<link href="//c.marsflag.com.cn/svc/u/canon/canon.com.cn/mfx-serp-custom.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8">
+
+<!--[if lt IE 9]>
+  <script src="/Public/Front/js/html5shiv.min.js"></script>
+  <script src="/Public/Front/js/respond.min.js"></script>
+<![endif]-->		
+<link rel="stylesheet" type="text/css" href="/Public/Front/style/swiper.min.css" media="all"/>
+	<script src="/Public/Front/js/jquery-1.11.0.js"></script>
+	<script src="/Public/Front/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="/Public/Front/js/swiper.min.js"></script>
+	<script src="/Public/Front/js/jquery_002.js"></script>
+	<script src="/Public/Front/js/swfobject.js" type="text/javascript"></script>
+		<script src="/Public/Front/js/script1.js" type="text/javascript"></script>
+	<script src="/Public/Front/js/jquery.fittext.js"></script>
+<script src="/Public/Front/js/wow.js"></script>
+<script src="/Public/Front/js/creative.js"></script>
+<script type="text/javascript" src="//sc-cn.marsflag.com/svc/me/p/canoncn/m_sug.js" id="m_sug" async></script>
+    <!--AdMaster    trackinghahhaahahahccccccc    code    begin --->
+    <script type="text/javascript">
+        var pageLabel = document.querySelector('meta[name="WT.cg_abc"]').getAttribute('content');
+        var _smq = _smq || [];
+        _smq.push(['_setAccount', '4c4cc25', new Date()]);
+        _smq.push(['pageview', , pageLabel]);
+        (function () {
+            var sm = document.createElement('script'); sm.type = 'text/javascript';
+            sm.async = true;
+            sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'site.cdnmaster.cn/sitemaster/sm.min.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+        })();
+    </script>
+
+    <style>
+        .main_nav,
+        .event_scroll_box li,
+        .banner_right .online_shop p,
+        .banner_right .code p {
+            font: 12px/1.5 Arial, Helvetica, SimSun, san-serif;
+        }
+
+        .news_ad {
+            font-size: 12px;
+            padding: 3px 6px 3px 6px;
+            background-color: rgb(236, 238, 233);
+            border: solid 1px #bcbcbc;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+        }
+
+        .content_error {
+            height: 145px;
+            margin-top: 70px;
+        }
+
+        .content_error h2 {
+            font: 20px/24px Arial, Helvetica, SimHei;
+        }
+
+        .content_error p {
+            font: 16px/20px Arial, Helvetica, SimHei;
+            padding-top: 10px;
+        }
+
+        .content_error .search_error {
+            display: inline;
+            float: left;
+            margin: 20px 0 0 0;
+            position: relative;
+            width: 440px;
+            height: 36px;
+            border: 1px solid #a6a6a6;
+            background: none;
+        }
+
+        .search_error form {
+            height: 40px;
+        }
+
+        #q {
+            width: 440px;
+            height: 36px;
+            font: 18px/1.5 Arial, Helvetica, SimSun, san-serif;
+            padding: 0 5px;
+        }
+
+        .search_but_error {
+            display: block;
+            background: url(/m/common/image/common/search_error_m.png) no-repeat;
+            position: absolute;
+            right: 4px;
+            top: 4px;
+        }
+
+        .search_but_error input {
+            cursor: pointer;
+            width: 27px;
+            height: 28px;
+        }
+
+        .banner_right p {
+            margin-top: 60px;
+            font: 16px/20px Arial, Helvetica, SimHei;
+        }
+
+        .banner_right .online_shop {
+            margin-top: 14px;
+        }
+
+        .banner_promotion {
+            background-color: #ffffff;
+            margin: 0 auto;
+            width: 980px;
+            padding: 0 40px;
+        }
+
+        strong {
+            font-size: 12px;
+        }
+
+        @media screen and (min-width:200px) and (max-width:768px) {
+
+            .banner_promotion .banner_right {
+                float: none;
+                width: 240px;
+                padding: 0px 0px 0px 9px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="headpc">
+    <div class="head1">
+        <div class="head1a">
+            <a href="/"><img src="/Public/Front/images/logo1.png" /></a>
+        </div>
+
+        <div class="head1b pc">
+            <!--   <div class="head1b1">
+              <img src="/Public/Front/images/q1.jpg"/>
+              <img src="/Public/Front/images/q2.jpg"/>
+              <img src="/Public/Front/images/q3.jpg"/>
+              </div> -->
+            <div class="head1b3">
+                <a target="_blank" href="https://shop.canon.com.cn/?smt_cp=0&smt_pl=wm&smt_md=hp_header" onclick="_smq.push(['custom', '页头', '自营电商']);"><img src="/Public/Front/images/logo8.png" alt="" /></a>
+                <a target="_blank" href="https://club.canon.com.cn/home.html?smt_cp=0&amp;smt_pl=ccntop&amp;smt_md=dentsu_menu&amp;utm_source=ccntop&amp;utm_medium=menu" style="margin-left: 20px;" onclick="_smq.push(['custom', '页头', '佳能俱乐部']);"><img src="/Public/Front/images/logo_3.png"></a>
+            </div>
+        </div>
+
+        <div class="head1d"><img src="/Public/Front/images/logo2.png" /></div>
+        <div class="head1c pc">
+
+            <div class="head1c2">
+                <div class="search">
+                    <a class="search_but png" href="#"></a>
+                    <form name="form_search" method="get" action="/search.html">
+                        <input style="color:black;" id="MF_form_phrase" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                        <input id="ie" name="ie" value="utf8" type="hidden">
+                    </form>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="head5 phone">
+        <div class="head51">
+            <a target="_blank" href="https://shop.canon.com.cn/?smt_cp=0&smt_pl=wm&smt_md=hp_header" onclick="_smq.push(['custom', '页头', '自营电商']);"><img src="/Public/Front/images/logo8.png" /></a>
+        </div>
+        <div class="head51">
+            <a target="_blank" href="https://club.canon.com.cn/home.html?smt_cp=0&smt_pl=ccntop&smt_md=dentsu_menu&utm_source=ccntop&utm_medium=menu" style="margin-left: 30px;" onclick="_smq.push(['custom', '页头', '佳能俱乐部']);"><img src="/Public/Front/images/logo_3.png" /></a>
+        </div>
+        <div class="head52"><img src="/Public/Front/images/se2.png" /></div>
+        <div class="head53"><img src="/Public/Front/images/se1.png" /></div>
+
+
+    </div>
+</div>
+<!--marsfinderoff: index-->
+
+
+
+<!-- 一级栏目 -->
+<div id="koo">
+    <!-- 顶级栏目 -->
+
+    <div class="cai0" id="tan88">
+        <div class="cai1">
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input type="submit" value="" onclick="_smq.push(['custom', '搜索']);" class="cai31">
+                <input id="MF_form_phrase" class="cai32" placeholder="搜索：canon.com.cn" name="q" value="" autocomplete="off" maxlength="50" type="text" manualmode>
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+    <div class="cai0" id="tan0">
+        <div class="cai1">
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li>
+                    <a onclick="tan(100);_smq.push(['custom', '11111个人产品']);">
+                        <span><img src="/Public/Front/images/xv1.png"/></span>
+                        <h2>产品</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '服务']);" href="/supports/service.html">
+                        <span><img src="/Public/Front/images/xv2.png"/></span>
+                        <h2>服务</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', 'CSR']);" href="/csr">
+                        <span><img src="/Public/Front/images/vvv3.png"/></span>
+                        <h2>CSR</h2>
+                    </a>
+                </li>
+                <li>
+                    <a href="/about/" onclick="_smq.push(['custom', '企业']);">
+                        <span><img src="/Public/Front/images/xv3.png"/></span>
+                        <h2>企业</h2>
+                    </a>
+                </li>
+                <li>
+                    <a href="/video" onclick="_smq.push(['custom', '视频']);">
+                        <span><img src="/Public/Front/images/video_channel.png"/></span>
+                        <h2>视频</h2>
+                    </a>
+                </li>
+
+                <!-- 			   <li>
+				 <a  onclick="tan(5)">
+				   <span><img src="/Public/Front/images/xv4.png"/></span> 
+				    <h2>俱乐部</h2>
+				 </a>
+				 </li> -->
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input type="submit" value="" onclick="_smq.push(['custom', '搜索']);" class="cai31">
+                <input id="MF_form_phrase" class="cai32" name="q" placeholder="搜索：canon.com.cn" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+    <div class="cai0" id="tan100">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(0)"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li>
+                    <a onclick="tan(1);_smq.push(['custom', '个人产品']);">
+                        <span><img src="/Public/Front/images/vx5.png"/></span>
+                        <h2>个人产品</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="tan(2);_smq.push(['custom', '办公及工业产品']);">
+                        <span><img src="/Upload/2017-12-16/5a35277fd88d4.png"/></span>
+                        <h2>办公及工业产品</h2>
+                    </a>
+                </li>
+                <li>
+                    <a href="//www.canon.com.cn/specialsite/btob/lp/lp.html" onclick="tan(100);_smq.push(['custom', '商务解决方案']);">
+                        <span><img src="/Public/Front/images/vx7.png"/></span>
+                        <h2>商务解决方案</h2>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" class="cai32" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+
+
+    <!-- 个人产品1 -->
+
+    <div class="cai0" id="tan1">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(100)"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/eos.html" onclick="_smq.push(['custom', 'EOS单反/微单相机']);">
+                        <span><img src="/Upload/2017-12-16/5a34fe258c420.png"/></span>
+                        <h2>EOS单反/微单相机</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/efwidezoom.html" onclick="_smq.push(['custom', 'EF/RF镜头']);">
+                        <span><img src="/Upload/2017-12-20/5a3a76f175477.png"/></span>
+                        <h2>EF/RF镜头</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/powershot.html" onclick="_smq.push(['custom', '小型数码相机 ']);">
+                        <span><img src="/Upload/2017-12-20/5a3a77fc4b514.png"/></span>
+                        <h2>小型数码相机 </h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/dv.html" onclick="_smq.push(['custom', '数码摄像机']);">
+                        <span><img src="/Upload/2017-12-20/5a3a78120a77b.png"/></span>
+                        <h2>数码摄像机</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/printertoc.html" onclick="_smq.push(['custom', '打印机']);">
+                        <span><img src="/Upload/2017-12-16/5a3525ad7cece.png"/></span>
+                        <h2>打印机</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/canoscan.html" onclick="_smq.push(['custom', '图片扫描仪']);">
+                        <span><img src="/Upload/2017-12-20/5a3a7855d4a58.png"/></span>
+                        <h2>图片扫描仪</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/consumable1.html" onclick="_smq.push(['custom', '耗材']);">
+                        <span><img src="/Upload/2017-12-16/5a3525ce952a9.png"/></span>
+                        <h2>耗材</h2>
+                    </a>
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/telscope.html" onclick="_smq.push(['custom', '更多产品']);">
+                        <span><img src="/Upload/2017-12-16/5a3526b953099.png"/></span>
+                        <h2>更多产品</h2>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" class="cai32" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+    <!-- 办公及工业产品2 -->
+    <div class="cai0" id="tan2">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(100)"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/imagerunneradvance.html" onclick="_smq.push(['custom', '数码复合机及软件']);">
+                        <span><img src="/Upload/2017-12-16/5a35277fd88d4.png"/></span>
+                        <h2>数码复合机及软件</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/printertob.html" onclick="_smq.push(['custom', '打印机']);">
+                        <span><img src="/Upload/2017-12-20/5a3a7b8f885a4.png"/></span>
+                        <h2>打印机</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/surveillance.html" onclick="_smq.push(['custom', '网络摄像机及解决方案']);">
+                        <span><img src="/Upload/2017-12-16/5a3527a553099.png"/></span>
+                        <h2>网络摄像机及解决方案</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/dscanner.html" onclick="_smq.push(['custom', '高速文件扫描仪']);">
+                        <span><img src="/Upload/2017-12-20/5a3a7e058489b.png"/></span>
+                        <h2>高速文件扫描仪</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/cutsheet-bw.html" onclick="_smq.push(['custom', '商用印刷系统 ']);">
+                        <span><img src="/Upload/2017-12-16/5a3527c9b267a.png"/></span>
+                        <h2>商用印刷系统 </h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/ipf.html" onclick="_smq.push(['custom', '宽幅面打印机']);">
+                        <span><img src="/Upload/2017-12-16/5a3527da4f390.png"/></span>
+                        <h2>宽幅面打印机</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/medicalfilm.html" onclick="_smq.push(['custom', '医疗设备']);">
+                        <span><img src="/Upload/2017-12-20/5a3a7e36b2507.png"/></span>
+                        <h2>医疗设备</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/cinemaeos.html" onclick="_smq.push(['custom', '专业影视设备']);">
+                        <span><img src="/Upload/2017-12-16/5a3527f997b3b.png"/></span>
+                        <h2>专业影视设备</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/hdtv-u.html" onclick="_smq.push(['custom', '广播器材']);">
+                        <span><img src="/Upload/2017-12-16/5a35280f718e1.png"/></span>
+                        <h2>广播器材</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/projector.html" onclick="_smq.push(['custom', '投影机']);">
+                        <span><img src="/Upload/2017-12-16/5a3528245aaab.png"/></span>
+                        <h2>投影机</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/consumable.html" onclick="_smq.push(['custom', '耗材']);">
+                        <span><img src="/Upload/2017-12-16/5a35283569ecf.png"/></span>
+                        <h2>耗材</h2>
+                    </a>
+
+
+
+                </li>
+                <li onclick="del_pro_cookie()">
+                    <a href="/overview/3dprinter.html" onclick="_smq.push(['custom', '更多产品']);">
+                        <span><img src="/Upload/2017-12-16/5a352841a6f5f.png"/></span>
+                        <h2>更多产品</h2>
+                    </a>
+
+
+
+                </li>
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" class="cai32" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+
+    <!-- 商务解决方案 -->
+    <div class="cai0" id="tan3">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(0)"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+
+
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" class="cai32" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+    <!-- 服务与支持 -->
+    <div class="cai0" id="tan4">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(0)"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li>
+                    <a onclick="_smq.push(['custom', '下载与支持']);" href="/supports/download/sims/search/index">
+
+
+                        <span><img src=""/></span>
+                        <h2>下载与支持</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '服务网络']);" href="/supports/repair/index.html">
+
+
+                        <span><img src=""/></span>
+                        <h2>服务网络</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '在线支持']);" href="/supports/webcontact/index.html">
+
+
+                        <span><img src=""/></span>
+                        <h2>在线支持</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '防伪查询']);" href="/supports/authenticity/index.html">
+
+
+                        <span><img src=""/></span>
+                        <h2>防伪查询</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '服务政策']);" href="/supports/policy/index.html">
+
+
+                        <span><img src=""/></span>
+                        <h2>服务政策</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '服务公告']);" href="/supports/announce/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>服务公告</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '快修注册查询']);" href="/support/service/etracking/">
+
+
+                        <span><img src=""/></span>
+                        <h2>快修注册查询</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '产品注册及服务']);" href="/support/pregister/login/index">
+
+
+                        <span><img src=""/></span>
+                        <h2>产品注册及服务</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '增值服务']);" href="/supports/servicemenu/index.html">
+
+
+                        <span><img src=""/></span>
+                        <h2>增值服务</h2>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+    <!-- 关于佳能-->
+    <div class="cai0" id="tan5">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(0);"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li>
+                    <a onclick="_smq.push(['custom', '佳能全球']);" href="/about/group/introduction/">
+
+
+                        <span><img src=""/></span>
+                        <h2>佳能全球</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '佳能亚洲']);" href="/about/asia/introduction/">
+
+
+                        <span><img src=""/></span>
+                        <h2>佳能亚洲</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '佳能中国']);" href="/about/china/introduction/">
+
+
+                        <span><img src=""/></span>
+                        <h2>佳能中国</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '佳能历史']);" href="/about/history/overview/">
+
+
+                        <span><img src=""/></span>
+                        <h2>佳能历史</h2>
+                    </a>
+                </li>
+
+                <li>
+                    <a onclick="_smq.push(['custom', '人才理念']);" href="/about/hr/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>人才理念</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '资料下载']);" href="/about/download/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>资料下载</h2>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+    <div class="cai0" id="tan26">
+        <div class="cai1">
+            <div class="cai1a" onclick="tanf(0);"><img src="/Public/Front/images/xx1.png" /></div>
+            <div class="cai1b"><img src="/Public/Front/images/xx2.png" /></div>
+        </div>
+        <div class="cai2">
+            <ul>
+                <li>
+                    <a onclick="_smq.push(['custom', '责任管理']);" href="/csr/responsibility/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>责任管理</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '守法合规']);" href="/csr/credibility/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>守法合规</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '客户责任']);" href="/csr/customer/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>客户责任</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '伙伴责任']);" href="/csr/consumer/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>伙伴责任</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '员工责任']);" href="/csr/employee/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>员工责任</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '环境责任']);" href="/csr/environment/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>环境责任</h2>
+                    </a>
+                </li>
+                <li>
+                    <a onclick="_smq.push(['custom', '影像公益']);" href="/csr/contribution/">
+
+
+
+                        <span><img src=""/></span>
+                        <h2>影像公益</h2>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+        <div class="cai3">
+            <form name="form_search" method="get" action="/search.html">
+                <input id="MF_form_phrase" class="cai32" name="q" value="" autocomplete="off" maxlength="50" type="text">
+                <input id="ie" name="ie" value="utf8" type="hidden">
+            </form>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="head2 pc">
+    <ul>
+
+        <li class="nav0" id="nav1">
+            <h2><a onclick="_smq.push(['custom', '个人产品']);">个人产品</a></h2>
+
+        </li>
+
+
+        <li class="nav0" id="nav2">
+            <h2><a onclick="_smq.push(['custom', '办公及工业产品']);">办公及工业产品</a></h2>
+
+        </li>
+
+
+
+        <li class="nav00" id="nav3">
+            <h2>
+                <a href="//www.canon.com.cn/specialsite/btob/lp/lp.html" onclick="_smq.push(['custom', '商务解决方案']);">商务解决方案</a>
+            </h2>
+        </li>
+        <li class="nav00" id="nav4">
+            <h2>
+                <a href="/supports/service.html" onclick="_smq.push(['custom', '服务与支持']);">服务与支持</a>
+            </h2>
+            <div class="nav2">
+                <dl>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '下载与支持']);" href="/supports/download/sims/search/index">下载与支持 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '服务网络']);" href="/supports/repair/index.html">服务网络 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '在线支持']);" href="/supports/webcontact/index.html">在线支持 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '防伪查询']);" href="/supports/authenticity/index.html">防伪查询 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '服务政策']);" href="/supports/policy/index.html">服务政策 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '服务公告']);" href="/supports/announce/">服务公告 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '快修注册查询']);" href="/support/service/etracking/">快修注册查询 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '产品注册及服务']);" href="/support/pregister/login/index">产品注册及服务 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '增值服务']);" href="/supports/servicemenu/index.html">增值服务 »</a>
+                    </dd>
+
+                </dl>
+
+            </div>
+        </li>
+        <li class="nav00" id="nav25">
+            <h2>
+                <a href="/csr/" onclick="_smq.push(['custom', '企业社会责任']);">企业社会责任</a> </h2>
+            <div class="nav2">
+                <dl>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '责任管理']);" href="/csr/responsibility/">责任管理 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '守法合规']);" href="/csr/credibility/">守法合规 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '客户责任']);" href="/csr/customer/">客户责任 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '伙伴责任']);" href="/csr/consumer/">伙伴责任 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '员工责任']);" href="/csr/employee/">员工责任 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '环境责任']);" href="/csr/environment/">环境责任 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '影像公益']);" href="/csr/contribution/">影像公益 »</a> </dd>
+
+                </dl>
+
+            </div>
+        </li>
+        <li class="nav00" id="nav5">
+            <h2>
+                <a href="/about/" onclick="_smq.push(['custom', '关于佳能']);">关于佳能</a> </h2>
+            <div class="nav2">
+                <dl>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '佳能全球']);" href="/about/group/introduction/">佳能全球 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '佳能亚洲']);" href="/about/asia/introduction/">佳能亚洲 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '佳能中国']);" href="/about/china/introduction/">佳能中国 »</a>
+                    </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '佳能历史']);" href="/about/history/overview/">佳能历史 »</a>
+                    </dd>
+
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '人才理念']);" href="/about/hr/">人才理念 »</a> </dd>
+                    <dd>
+
+                        <a onclick="_smq.push(['custom', '资料下载']);" href="/about/download/">资料下载 »</a> </dd>
+
+                </dl>
+
+            </div>
+        </li>
+        <li class="nav00" id="nav5">
+            <h2>
+                <a href="/video" target="_blank" onclick="_smq.push(['custom', '精彩视频']);">精彩视频</a>
+            </h2>
+        </li>
+    </ul>
+</div>
+
+<div class="navlist pc">
+    <div class="nav1" id="nav11">
+        <dl>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/eos.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-22/5a3becd68ffb6.jpg"/></span></a>
+				<p>
+					<a href="/overview/eos.html">
+
+			    
+						 
+			         					  
+					  EOS单反/微单相机 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/efwidezoom.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-07/5a28af63abb7f.png"/></span></a>
+				<p>
+					<a href="/overview/efwidezoom.html">
+
+			    
+						 
+			         					  
+					EF/RF镜头 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/powershot.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-27/5a4363f6a4fc5.jpg"/></span></a>
+				<p>
+					<a href="/overview/powershot.html">
+
+			    
+						 
+			         					  
+					  小型数码相机  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/dv.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-16/5a35267a7cffc.png"/></span></a>
+				<p>
+					<a href="/overview/dv.html">
+
+			    
+						 
+			         					  
+					  数码摄像机 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/printertoc.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-20/5a3a72edd0d4f.jpg"/></span></a>
+				<p>
+					<a href="/overview/printertoc.html">
+
+			    
+						 
+			         					  
+					  打印机 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/canoscan.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-07/5a28bb88851ab.png"/></span></a>
+				<p>
+					<a href="/overview/canoscan.html">
+
+			    
+						 
+			         					  
+					  图片扫描仪 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/consumable1.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-20/5a3a7369dc46a.jpg"/></span></a>
+				<p>
+					<a href="/overview/consumable1.html">
+
+			    
+						 
+			         					  
+					  耗材 ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/telscope.html">
+
+			 
+						 
+			         					  
+					  <span><img src="/Upload/2017-12-12/5a2fbbf5c1a9e.png"/></span></a>
+				<p>
+					<a href="/overview/telscope.html">
+
+			    
+						 
+			         					  
+					  更多产品 ></a></p>
+			</dt>
+
+
+
+        </dl>
+    </div>
+    <div class="nav1" id="nav21">
+        <dl>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/imagerunneradvance.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-07/5a28d6cb0e432.png"/></span></a>
+				<p>
+					<a href="/overview/imagerunneradvance.html">
+
+			
+						 
+			         					  数码复合机及软件  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/printertob.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-20/5a3a7446979c8.jpg"/></span></a>
+				<p>
+					<a href="/overview/printertob.html">
+
+			
+						 
+			         					  打印机  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/surveillance.html">
+
+			
+						 
+			         					  <span><img src="/Upload/1530617648.jpg"/></span></a>
+				<p>
+					<a href="/overview/surveillance.html">
+
+			
+						 
+			         					  网络摄像机及解决方案  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/dscanner.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-07/5a28d78130823.png"/></span></a>
+				<p>
+					<a href="/overview/dscanner.html">
+
+			
+						 
+			         					  高速文件扫描仪  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/cutsheet-bw.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-07/5a28d79e168ec.png"/></span></a>
+				<p>
+					<a href="/overview/cutsheet-bw.html">
+
+			
+						 
+			         					  商用印刷系统   ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/ipf.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-22/5a3becf7ef597.jpg"/></span></a>
+				<p>
+					<a href="/overview/ipf.html">
+
+			
+						 
+			         					  宽幅面打印机  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/medicalfilm.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-07/5a28d7dbdb0d6.png"/></span></a>
+				<p>
+					<a href="/overview/medicalfilm.html">
+
+			
+						 
+			         					  医疗设备  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/cinemaeos.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-29/5a462a6bb030f.jpg"/></span></a>
+				<p>
+					<a href="/overview/cinemaeos.html">
+
+			
+						 
+			         					  专业影视设备  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/hdtv-u.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-21/5a3bd564a30e3.jpg"/></span></a>
+				<p>
+					<a href="/overview/hdtv-u.html">
+
+			
+						 
+			         					  广播器材  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/projector.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2018-01-31/5a717e052c65d.jpg"/></span></a>
+				<p>
+					<a href="/overview/projector.html">
+
+			
+						 
+			         					  投影机  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/consumable.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-20/5a3a7766309d5.jpg"/></span></a>
+				<p>
+					<a href="/overview/consumable.html">
+
+			
+						 
+			         					  耗材  ></a></p>
+			</dt>
+            <dt onclick="del_pro_cookie()">
+				<a href="/overview/3dprinter.html">
+
+			
+						 
+			         					  <span><img src="/Upload/2017-12-12/5a2fbe28ae971.png"/></span></a>
+				<p>
+					<a href="/overview/3dprinter.html">
+
+			
+						 
+			         					  更多产品  ></a></p>
+			</dt>
+
+        </dl>
+    </div>
+
+</div>
+<!--marsfinderon: index-->
+<script>
+    function del_pro_cookie() {
+        $.ajax({
+            url: '/contrast_mysqli.php',
+            type: 'post',
+            dataType: 'json',
+            data: {
+                a: 'delcookie'
+            },
+            success: function(data) {
+
+                return true;
+            }
+        })
+
+    }
+    if ($(".overview_box2").css("width") == "980px") {
+        $(".nav0").css("margin-right", "20px");
+        $(".nav00").css("margin-right", "20px");
+    }
+</script>
+        <div class="bodymain">
+            <!-- Swiper -->
+            <!-- bannerBox start -->
+            <div class="banner_promotion clearfix">
+                <!--evemt start-->
+                <div class="banner_layout clearfix">
+                    <div class="content_error">
+                        <h2>您访问的页面不存在</h2>
+                        <p>请确认您输入的地址是否正确，或搜索您想要了解的内容</p>
+
+                        <div class="search search_error">
+                            <form name="searchPop" id="searchPop" class="searchform searchform-top" method="GET" action="/search.html">
+                                <input type="search" class="" title="" name="q" id="q">
+                                <span class="search_but_error" href="javascript:;">
+                              <input id="search_btn" type="submit" value="" onFocus="this.blur()">
+                          </span>
+
+                            </form>
+                        </div>
+
+                    </div>
+                    <div class="banner_area">
+                        <div class="event_title" style="padding-top:3px">
+                            <h2>促销活动 <img style="position:relative;top:2px" src="http://www.canon.com.cn/common/img/home/news_ad.png"
+                                    alt="广告/市场推广等" />
+                                <!--vertical-align: sub;<span style="font-size:12px">[广告/市场推广等]</span>--></h2>
+                        </div>
+
+                        <!-- News Marketing Include Start-->
+                        <div class="home_event_scroll_area">
+                            <!-- <ul id="event_scroll_arrows"><li class="rev"><a class="off" href="javascript:;">left arrow</a></li><li class="fwd"><a class="on" href="javascript:;">right arrow</a></li></ul> -->
+                            <div class="event_scroll_box">
+                                <div id="event_scroll_wrapper">
+
+                                    <ul class="clearfix">
+<li>                   
+<a target="_blank" 
+href="https://canon.tmall.com/campaign-10830-96.htm" 
+ 
+ onclick="_smq.push(['custom', '佳能11.11 福利收割机']);" >
+<img width="196" height="108" alt="佳能11.11 福利收割机" src="/Upload/new/2019-10-31/5dba9b8c64af0.jpg">
+<strong>佳能11.11 福利收割机<var>»</var></strong>
+</a>
+<p>2019-11-01至2019-11-10</p>
+</li><li>                   
+<a target="_blank" 
+href="https://www.0101shop.com/#weizhi" 
+ 
+ onclick="_smq.push(['custom', '11月购物趴 全佳狂欢']);" >
+<img width="196" height="108" alt="11月购物趴 全佳狂欢" src="/Upload/new/2019-10-31/5dba4cdc5eb2f.jpg">
+<strong>11月购物趴 全佳狂欢<var>»</var></strong>
+</a>
+<p>2019-11-01至2019-11-30</p>
+</li><li>                   
+<a target="_blank" 
+href="https://canon.tmall.com/campaign-10828-92.htm?spm=a1z10.1-b-s.w5003-21072462016.1.66c06876T47PVr&amp;scene=taobao_shop" 
+ 
+ onclick="_smq.push(['custom', '佳能11.11']);" >
+<img width="196" height="108" alt="佳能11.11" src="/Upload/new/2019-10-21/5dad092bbc11b.jpg">
+<strong>佳能11.11<var>»</var></strong>
+</a>
+<p>2019-10-21至2019-11-10</p>
+</li><li>                   
+<a target="_blank" 
+href="https://canon.tmall.com/p/rd931122.htm?spm=a1z10.3-b-s.w5001-14873283673.14.c9ea2c3ec1mc2h&amp;scene=taobao_shop" 
+ 
+ onclick="_smq.push(['custom', '好旅伴，选佳能']);" >
+<img width="196" height="108" alt="好旅伴，选佳能" src="/Upload/new/2019-10-10/5d9eaafc9443a.jpg">
+<strong>好旅伴，选佳能<var>»</var></strong>
+</a>
+<p>2019-10-11至2019-10-15</p>
+</li><li>                   
+<a target="_blank" 
+href="https://www.0101shop.com/#weizhi" 
+ 
+ onclick="_smq.push(['custom', '金秋旅拍季 闪亮开拍']);" >
+<img width="196" height="108" alt="金秋旅拍季 闪亮开拍" src="/Upload/new/2019-09-29/5d901653108b5.jpg">
+<strong>金秋旅拍季 闪亮开拍<var>»</var></strong>
+</a>
+<p>2019-10-01至2019-10-31</p>
+</li><li>                   
+<a target="_blank" 
+href="http://canon.tmall.com/p/rd951839.htm" 
+ 
+ onclick="_smq.push(['custom', '佳能宠粉节 5周年回馈']);" >
+<img width="196" height="108" alt="佳能宠粉节 5周年回馈" src="/Upload/new/2019-09-10/5d777161af65d.jpg">
+<strong>佳能宠粉节 5周年回馈<var>»</var></strong>
+</a>
+<p>2019-09-11至2019-09-24</p>
+</li></ul>
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- News Marketing Include End-->
+                    </div>
+                </div>
+                <!--event end-->
+                <div class="banner_right">
+                    <p>佳能官方网上商城</p>
+                    <div class="qlstyle online_shop">
+                        <a href="https://shop.canon.com.cn/?smt_cp=0&smt_pl=wm&smt_md=hp_error_banner" target="_blank" onclick="_smq.push(['custom', '404页面','佳能电商']);">
+                            <img src="/Public/Front/images/Banner240x145.png" width="240" height="145" alt="佳能电商">
+                            </a>
+                    </div>
+                    <div class="qlstyle online_shop">
+                        <a href="http://www.0101shop.com/" target="_blank" onclick="_smq.push(['custom', '404页面','佳能0101商城']);">
+                            <img src="/Public/Front/images/teaser_online_shop_small.jpg" width="240" height="145" alt="佳能0101商城">
+                        </a>
+                    </div>
+                    <div class="qlstyle tmail">
+                        <a href="http://canon.tmall.com/" target="_blank" onclick="_smq.push(['custom', '404页面','佳能天猫']);">
+                            <img src="/Public/Front/images/240X145tmall.png" width="240" height="145" alt="佳能天猫官方旗舰店">
+                        </a>
+                    </div>
+                </div>
+                <!-- bannerBox end -->
+            </div>
+            <!--Banner List start-->
+            <div class="h_40"></div>
+            <div class="bottom_toolbar">
+                <span id="goTop">返回顶部</span>
+            </div>
+            <!--Ad List end-->
+            <!-- Footer Navigation Include Start-->
+            <!--marsfinderoff: index-->
+            <!--Footer start-->
+            <link href="http://www.canon.com.cn/common/html/share/css/share.css" rel="stylesheet" type="text/css">
+            <script src="http://www.canon.com.cn/common/html/share/js/share.js" charset="utf-8" type="text/javascript"></script>
+
+
+            <!-- share -->
+            <div class="share_parent"  style="display: none;">
+                <div class="more_share" id="ckepop">
+                    <div style="border:10px solid #7F7F7F; width:300px;">
+                        <div class="jiadiv_01" style="width:300px;">
+                            <div style="background:#F2F2F2;line-height:100%;height:30px;overflow:hidden;width:300px;">
+                                <table width="100%" style="margin:5px 0 0 0;">
+                                    <tbody>
+                                        <tr class="jt_sharetitle" style="line-height:20px!important;">
+                                            <td align="left" style="text-align:left;font-size:12px; padding-left:5px;">分享到各大网站</td>
+                                            <td align="right"><img width="8" height="9" border="0" alt="" src="http://www.canon.com.cn/common/html/share/images/img_exit.gif"
+                                                    style="margin:0 4px;cursor:pointer;" onClick="jQuery('.share_parent').hide();"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div id="ckelist" class="jiadiv_02">
+                                <a href="javascript:;" onClick="shareSendTo('tsohu');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_tsohu">搜狐微博</span> </a>
+                                <a href="javascript:;" onClick="openT63();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_t163">网易微博</span> </a>
+                                <a
+                                    href="javascript:;" onClick="shareSendTo('qzone');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_qzone">QQ空间</span> </a>
+                                    <a href="javascript:;" onClick="shareSendTo('hi');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_hi">百度空间</span> </a>
+                                    <a
+                                        href="javascript:;" onClick="openQqfav();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_qqfav">QQ收藏</span> </a>
+                                        <a href="javascript:;" onClick="openBdsc();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_baidu">百度搜藏</span> </a>
+                                        <a
+                                            href="javascript:;" onClick="openTxfr();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_txfr">腾讯朋友</span> </a>
+                                            <a href="javascript:;" onClick="openTieba();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_tieba">百度贴吧</span> </a>
+                                            <a
+                                                href="javascript:;" onClick="shareSendTo('msn');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_msn">MSN</span> </a>
+                                                <a href="javascript:;" onClick="shareSendTo('feixin');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_feixin">飞信</span> </a>
+                                                <a
+                                                    href="javascript:;" onClick="openTaobao();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_taobao">淘宝</span> </a>
+                                                    <a href="javascript:;" onClick="openTianya();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_tianya">天涯社区</span> </a>
+                                                    <a
+                                                        href="javascript:;" onClick="openFanfou();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_fanfou">饭否</span> </a>
+                                                        <a href="javascript:;" onClick="shareSendTo('xianguo');" class="jiatitle" rel="external nofollow"><span class="jtico jtico_xianguo">鲜果</span> </a>
+                                                        <a
+                                                            href="javascript:;" onClick="shareSendTo('mop');" class="jiatitle"
+                                                            rel="external nofollow"><span class="jtico jtico_mop">猫扑推客</span> </a>
+                                                            <a href="javascript:;" onClick="openPoco();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_poco">Poco网</span> </a>
+                                                            <div style="clear:both; line-height:-1px; height:0; overflow:hidden;">
+                                                                &nbsp;
+                                                            </div>
+                                                            <a href="javascript:;" onClick="openMyspace();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_myspace">Myspace</span> </a>
+                                                            <a href="javascript:;" onClick="openTifeng();" class="jiatitle"><span class="jtico jtico_tifeng">凤凰微博</span> </a>
+                                                            <a
+                                                                href="javascript:;" onClick="shareSendTo('139');" class="jiatitle"
+                                                                rel="external nofollow"><span class="jtico jtico_139">139说客</span> </a>
+                                                                <a href="javascript:;" onClick="openSohu();" class="jiatitle" rel="external nofollow"><span class="jtico jtico_sohu">搜狐白社会</span> </a>
+                                                                <div style="clear:both"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class="bg0"></div>
+        <div class="bb0" id="bb0">
+            <div class="bb1">
+                <div class="cai1b"><img src="__FRONT__/images/xx2.png" /></div>
+            </div>
+
+            <div class="bb2" id="bb2">
+
+
+            </div>
+            <div class="bb3" id="bb3">
+
+
+            </div>
+
+        </div>
+        <!--marsfinderoff: index-->
+<div class="footer floatLeft pc">
+    <div class="footer-one floatLeft">
+
+        <div class="footer-one-1 floatLeft">
+            <div class="footerLogo floatLeft">
+                <img class="floatLeft" src="/Public/Front/images/footer2.png" alt="" />
+                <p class="floatLeft">佳能官方<br>微信公众号</p>
+                <img class="cac" src="/Upload/2017-12-21/5a3b3a414b514.jpg">
+            </div>
+            <div class="footerLogo floatLeft">
+                <img class="floatLeft" src="/Public/Front/images/footer1.png" alt="" />
+                <p class="floatLeft"><a onclick="_smq.push(['custom', '佳能官方新浪微博']);" href="https://weibo.com/canoncn?is_hot=1" target="_blank">佳能官方<br>新浪微博</a></p>
+            </div>
+
+
+            <div class="footerLogo floatLeft">
+                <img class="floatLeft" src="/Public/Front/images/footer2.png" alt="" />
+                <p class="floatLeft">佳能俱乐部<br>微信公众号</p>
+                <img class="cac" src="/Upload/2017-12-15/5a334846de2ec.png">
+            </div>
+
+            <div class="footerLogo floatLeft">
+                <img class="floatLeft" src="/Public/Front/images/footer5294.jpg" alt="" />
+                <p class="floatLeft">佳能官方<br>知乎账号</p>
+                <img class="cac" src="/Public/Front/images/5294.png">
+            </div>
+            <!-- <div class="footerLogo2 floatLeft">
+							<img class="floatLeft" src="/Upload/2017-12-15/5a33484f6cc6c.png" alt="" />
+							<p class="floatLeft">欢迎扫描二维码进入<br>佳能(中国)移动版官网！</p>
+						</div> -->
+
+        </div>
+        <div class="footer-one-2 footList floatLeft">
+            <h3><a onclick="_smq.push(['custom', '购买指南']);" href="/purchase/guide.html">购买指南</a></h3>
+            <ul>
+                <li><a onclick="_smq.push(['custom', '购买指南']);" href="/purchase/show/index.html">佳能展厅</a></li>
+                <li><a onclick="_smq.push(['custom', '购买指南']);" href="/buy/sale/index.html">经销商查询</a></li>
+                <li><a onclick="_smq.push(['custom', '购买指南']);" href="/purchase/onlinesale/index.html">线上销售店铺</a></li>
+            </ul>
+        </div>
+        <div class="footer-one-3 footList floatLeft">
+            <h3><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/service.html">服务与支持</a></h3>
+            <ul>
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/webcontact/index.html">在线支持</a></li>
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/repair/index.html">服务网络</a></li>
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/policy/index.html">服务政策</a></li>
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/download/sims/search/index">驱动及固件下载</a></li>
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/repair/index.html">快修中心位置</a></li>
+            </ul>
+        </div>
+        <div class="footer-one-4 footList floatLeft">
+            <h3><a onclick="_smq.push(['custom', '关于佳能']);" href="/about/">关于佳能</a></h3>
+            <ul>
+                <li><a onclick="_smq.push(['custom', '关于佳能']);" href="/about/china/introduction/">企业信息</a></li>
+                <li><a onclick="_smq.push(['custom', '关于佳能']);" href="/csr/">企业社会责任</a></li>
+                <li><a onclick="_smq.push(['custom', '关于佳能']);" href="/about/hr/">人才理念</a></li>
+            </ul>
+        </div>
+        <div class="footer-one-5 footList floatLeft">
+            <h3><a onclick="_smq.push(['custom', '资讯信息']);" href="/info/index.html">资讯信息</a></h3>
+            <ul>
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/info/products/">产品新闻</a></li>
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/info/corporate/">企业新闻</a></li>
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/info/marketing/">市场活动</a></li>
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/supports/announce/index.html">服务公告</a></li>
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/about/verification/index.html">官方社会化媒体</a></li>
+            </ul>
+        </div>
+
+    </div>
+    <p class="guii">本网站包含一部分广告/市场推广等内容，敬请知悉。</p>
+    <div class="footer-two floatLeft">
+        <div class="rightTel">
+            <p>客服电话：4006-222666</p>
+            <p>公司电话：010-85139999</p>
+        </div>
+        <div class="footer-twoRight">
+            <div class="footer-twoRightList floatLeft"><a target="blank" onclick="_smq.push(['custom', '佳能全球']);" href="https://global.canon">佳能全球</a></div>
+            <div class="footer-twoRightList floatLeft"><a onclick="_smq.push(['custom', '使用条款']);" href="/about/terms/index.html">使用条款</a></div>
+            <div class="footer-twoRightList floatLeft"><a onclick="_smq.push(['custom', '隐私政策']);" href="/about/secrecy/index.html">隐私政策</a></div>
+            <div class="footer-twoRightList floatLeft"><a onclick="_smq.push(['custom', '网站地图']);" href="/map/index.html">网站地图</a></div>
+            <div class="footer-twoRightList floatLeft"><a onclick="_smq.push(['custom', '联系我们']);" href="/about/contact/index.html">联系我们</a></div> 
+        </div>
+
+        <div class="footer-twoLeft">
+            <p>佳能（中国）有限公司版权所有，未经许可不得转载</p>
+            <p>
+                <a target="_blank" href="http://www.beian.miit.gov.cn">京ICP备05038060号</a> 
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037877"><img src="/Public/Front/images/gongan.png">京公网安备 11010502037877号</a>
+            </p>
+            <p>《互联网药品信息服务资格证书》编号：(京)-非经营性-2016-0115号</p>
+        </div>
+
+    </div>
+
+    <div class="footer-bgimg floatLeft">
+        <img src="/Public/Front/images/foot_img.png" />
+    </div>
+</div>
+
+
+<div style="clear:both;"></div>
+<div class="footerp phone">
+    <div class="foot1">
+        <div class="foot11">
+            <div class="foot11a">
+                <img src="/Public/Front/images/footer1.png" />
+            </div>
+            <div class="foot11b">
+                <p class="floatLeft">佳能官方<br>新浪微博</p>
+            </div>
+            <div class="foot11c">
+                <p><a onclick="_smq.push(['custom', '关注']);" href="https://weibo.com/canoncn?is_hot=1" target="_blank">关注</a></p>
+            </div>
+        </div>
+        <div class="foot12">
+            <div class="foot11a">
+                <img src="/Public/Front/images/footer2.png" />
+            </div>
+            <div class="foot11b">
+                <p class="floatLeft">佳能官方<br>微信公众号</p>
+            </div>
+            <img class="cac" src="/Upload/2017-12-21/5a3b3a414b514.jpg">
+        </div>
+        <div class="foot13">
+            <div class="foot11a">
+                <img src="/Public/Front/images/footer2.png" />
+            </div>
+            <div class="foot11b">
+                <p class="floatLeft">佳能俱乐部<br>微信公众号</p>
+
+            </div>
+            <img class="cac" src="/Upload/2017-12-15/5a334846de2ec.png">
+        </div>
+        <div class="foot13">
+            <div class="foot11a">
+                <img src="/Public/Front/images/footer5294.jpg" />
+            </div>
+            <div class="foot11b">
+                <p class="floatLeft">佳能官方<br>知乎账号</p>
+
+            </div>
+            <img class="cac" src="/Public/Front/images/5294.png">
+        </div>
+
+
+    </div>
+    <div class="foot2" align="center">
+        <ul>
+            <div align="center">
+                <li class="foot21"><a href="/purchase/guide.html">购买指南</a></li>
+            </div>
+            <div align="center">
+                <li><a onclick="_smq.push(['custom', '服务与支持']);" href="/supports/service.html">服务与支持</a></li>
+            </div>
+            <div align="center">
+                <li><a onclick="_smq.push(['custom', '关于佳能']);" href="/about/">关于佳能</a></li>
+            </div>
+            <div align="center">
+                <li><a onclick="_smq.push(['custom', '资讯信息']);" href="/info/index.html">资讯信息</a></li>
+            </div>
+        </ul>
+        <p>本网站包含一部分广告/市场推广等内容，敬请知悉。</p>
+    </div>
+    <div class="foot3">
+        <div class="foot31">
+            <div class="foot311">
+                <ul>
+                    <li class="foot21"><a target="blank" onclick="_smq.push(['custom', '佳能全球']);" href="https://global.canon">佳能全球</a></li>
+                    <li><a onclick="_smq.push(['custom', '使用条款']);" href="/about/terms/index.html">使用条款</a></li>
+                    <li><a onclick="_smq.push(['custom', '隐私政策']);" href="/about/secrecy/index.html">隐私政策</a></li>
+                    <li><a onclick="_smq.push(['custom', '网站地图']);" href="/map/index.html">网站地图</a></li>
+                    <li><a onclick="_smq.push(['custom', '联系我们']);" href="/about/contact/index.html">联系我们</a></li>
+                </ul>
+            </div>
+
+            <div class="foot312">
+                <p>佳能（中国）有限公司版权所有，未经许可不得转载</p>
+                <p><a target="_blank" href="http://www.beian.miit.gov.cn">京ICP备05038060号</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037877"><img src="/Public/Front/images/gongan.png">京公网安备 11010502037877号</a></p>
+                <p>《互联网药品信息服务资格证书》编号：(京)-非经营性-2016-0115号</p>
+            </div>
+            
+            <div class="foot313">
+                <p>客服电话：4006-222666</p>
+                <p>公司电话：010-85139999</p>
+            </div>
+        </div>
+        <div class="foot33">
+            <img src="/Public/Front/images/foot_img.png" />
+        </div>
+
+    </div>
+
+</div>
+<!--marsfinderon: index-->
+
+
+<script src="/Public/Front/js/jquery-1ib.js" type="text/javascript"></script>
+<script src="/Public/Front/js/acc.js" type="text/javascript"></script>
+<script src="/Public/Front/js/click.js"></script>
+<script type="text/javascript" src="//sc-cn.marsflag.com/svc/me/p/canoncn/m_sug.js" id="m_sug" async></script>
+<script language="JavaScript" type="text/javascript" src="/Public/Front/js/sc_analytics.js"></script>
+<script src="/Public/Front/js/jquery3.js" type="text/javascript"></script>
+<script src="/Public/Front/js/script.js" type="text/javascript"></script>
+<script src="/Public/Front/js/jquery.colorbox.js" type="text/javascript"></script>
+<script src="/Public/Front/js/lightbox.min.js" type="text/javascript"></script>
+<script src="/Public/Front/js/base.js"></script>
+<!-- <script src="/Public/Front/js/common.js"></script> -->
+    </div>
+
+    </div>
+
+
+
+</body>
+
+
+</html>
